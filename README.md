@@ -7,4 +7,4 @@ This project only focuses on the frontend.
 
 To get started, click [here](https://netflix-clone-6be83.web.app/)
 
-![Screenshot](/public/project-preview.png)
+![Screenshot](/public/project-preview.png)!
