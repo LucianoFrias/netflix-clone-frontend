@@ -5,4 +5,4 @@ I used TMDB to get all of the movies and its corresponding data, with Firebase s
 
 This project only focuses on the frontend.
 
-[Screenshot](/public/project-preview.png)
+![Screenshot](/public/project-preview.png)
