@@ -1,0 +1,33 @@
+.navbar
+{
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: transparent;
+    transition: 0.5s all;
+    transition-timing-function: ease-in;
+}
+
+.navbar-black
+{
+    background-color: #111;
+}
+
+.netflix-logo
+{
+    width: 100px;
+    object-fit: contain;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.user-logo
+{
+    width: 30px;
+    object-fit: contain;
+    margin-right: 20px;
+    cursor: pointer;
+}
