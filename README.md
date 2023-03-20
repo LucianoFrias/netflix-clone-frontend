@@ -5,6 +5,6 @@ I used TMDB to get all of the movies and its corresponding data, with Firebase s
 
 This project only focuses on the frontend.
 
-To get started, click [here](https://netflix-clone-6be83.web.app/)
+To get started, click [here](https://netflix-clone-6be83.web.app/)!
 
-![Screenshot](/public/project-preview.png)!
+![Screenshot](/public/project-preview.png)
